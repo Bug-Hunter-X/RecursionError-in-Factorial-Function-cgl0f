@@ -1,0 +1,1 @@
+This repository contains a simple Python program that demonstrates a RecursionError. The `factorial` function uses recursion to calculate the factorial of a number. However, it doesn't handle the case of a negative input, resulting in infinite recursion. The solution adds a check for negative input and returns an appropriate error message.
